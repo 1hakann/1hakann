@@ -1,4 +1,4 @@
-![Repository Banner](https://raw.githubusercontent.com/1hakann/1hakann/master/hakan-cakmak-profile-banner-min.jpg) 
+![Repository Banner](https://raw.githubusercontent.com/1hakann/1hakann/master/hakan-cakmak-profile-banner-lg.jpg) 
 
 
 ### Hi there 👋 I'm Hakan!
