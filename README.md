@@ -24,3 +24,5 @@ I am Hakan Cakmak, a software developer from Istanbul, Turkey. 🏡 I have exper
 ## ⚡Stats
 
 ![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=1hakann&show_icons=true&theme=tokyonight&hide_border=true)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
